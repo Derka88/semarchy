@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref:mapRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:map="http://www.indy.com/v2/map" xmlns:ref="http://www.indy.com/v2/ref" id="_MR5T4NnUEe-ZLcaEU23iqA">
+  <dataModel>_MGiYcNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=ALIM_SAS_ARTICLE?</dataModel>
+  <containerRef xsi:type="ref:RDatastore" id="_N1_j4NnUEe-ZLcaEU23iqA" countShownFields="13" hierarchical="false">
+    <dataModel>_N0-3QNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+    <fieldRef xsi:type="ref:RField" id="_N2U7ENnUEe-ZLcaEU23iqA" size="50" type="VARCHAR2" position="18">
+      <dataModel>_N2KjAtnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_TAI?</dataModel>
+      <expressionRef id="_P90MANnUEe-ZLcaEU23iqA" internalExpression="${Article.LIB_TAI}$">
+        <dataModel>_P9pM4NnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9jB0dnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2XXUNnUEe-ZLcaEU23iqA" size="100" type="VARCHAR2" position="24">
+      <dataModel>_N2LxINnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=SS_FAM?</dataModel>
+      <expressionRef id="_P92oQNnUEe-ZLcaEU23iqA" internalExpression="${Article.SS_FAM}$">
+        <dataModel>_P9pz8NnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9jo4tnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2XXUdnUEe-ZLcaEU23iqA" precision="2" size="10" type="NUMBER" position="27">
+      <dataModel>_N2LxIdnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=PRX_VEN?</dataModel>
+      <expressionRef id="_P92oQdnUEe-ZLcaEU23iqA" internalExpression="${Article.PRX_VEN}$">
+        <dataModel>_P9qbANnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9hzstnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2X-YNnUEe-ZLcaEU23iqA" size="100" type="VARCHAR2" position="21">
+      <dataModel>_N2LKENnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=FAM?</dataModel>
+      <expressionRef id="_P92oQtnUEe-ZLcaEU23iqA" internalExpression="${Article.FAM}$">
+        <dataModel>_P9rCENnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9hzsNnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2X-YdnUEe-ZLcaEU23iqA" size="50" type="VARCHAR2" position="30">
+      <dataModel>_N2MYMNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_GEN?</dataModel>
+      <expressionRef id="_P92oQ9nUEe-ZLcaEU23iqA" internalExpression="${Article.LIB_GEN}$">
+        <dataModel>_P9rpINnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9hzsdnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2X-YtnUEe-ZLcaEU23iqA" size="100" type="VARCHAR2" position="6">
+      <dataModel>_N2JU4NnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_MRQ?</dataModel>
+      <expressionRef id="_P92oRNnUEe-ZLcaEU23iqA" internalExpression="${Article.LIB_MRQ}$">
+        <dataModel>_P9sQMNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9hzs9nUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2X-Y9nUEe-ZLcaEU23iqA" size="50" type="VARCHAR2" position="36">
+      <dataModel>_N2M_QNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=COD_CAT?</dataModel>
+      <expressionRef id="_P92oRdnUEe-ZLcaEU23iqA" internalExpression="${Article.COD_CAT}$">
+        <dataModel>_P9s3QNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9jo49nUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2YlcNnUEe-ZLcaEU23iqA" size="50" type="VARCHAR2" position="3">
+      <dataModel>_N2It0NnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=COD_MRQ?</dataModel>
+      <expressionRef id="_P93PUNnUEe-ZLcaEU23iqA" internalExpression="${Article.COD_MRQ}$">
+        <dataModel>_P9s3QdnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9kP8NnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2YlcdnUEe-ZLcaEU23iqA" size="50" type="VARCHAR2" position="9">
+      <dataModel>_N2J78NnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=COD_ART?</dataModel>
+      <expressionRef id="_P93PUdnUEe-ZLcaEU23iqA" internalExpression="${Article.COD_ART}$">
+        <dataModel>_P9teUNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9jB0NnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2YlctnUEe-ZLcaEU23iqA" size="255" type="VARCHAR2" position="12">
+      <dataModel>_N2KjANnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_PRD?</dataModel>
+      <expressionRef id="_P93PUtnUEe-ZLcaEU23iqA" internalExpression="${Article.LIB_PRD}$">
+        <dataModel>_P9uFYNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9jo4NnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2Ylc9nUEe-ZLcaEU23iqA" size="50" type="VARCHAR2" position="15">
+      <dataModel>_N2KjAdnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_COL?</dataModel>
+      <expressionRef id="_P93PU9nUEe-ZLcaEU23iqA" internalExpression="${Article.LIB_COL}$">
+        <dataModel>_P9uscNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9jB0tnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2ZMgNnUEe-ZLcaEU23iqA" size="100" type="VARCHAR2" position="39">
+      <dataModel>_N2NmUNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_CAT?</dataModel>
+      <expressionRef id="_P93PVNnUEe-ZLcaEU23iqA" internalExpression="${Article.LIB_CAT}$">
+        <dataModel>_P9vTgNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9jo5NnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_N2ZMgdnUEe-ZLcaEU23iqA" size="50" type="VARCHAR2" position="33">
+      <dataModel>_N2MYMdnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=CIB_TRN_AGE?</dataModel>
+      <expressionRef id="_P93PVdnUEe-ZLcaEU23iqA" internalExpression="${Article.CIB_TRN_AGE}$">
+        <dataModel>_P9v6kNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+        <sourceRef>_O9jo4dnUEe-ZLcaEU23iqA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+  </containerRef>
+  <containerRef xsi:type="ref:RDatastore" id="_O9f-gNnUEe-ZLcaEU23iqA" countShownFields="14" hierarchical="true">
+    <dataModel>_O9ewYNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</dataModel>
+    <fieldRef xsi:type="ref:RField" id="_O9hzsNnUEe-ZLcaEU23iqA" size="77" type="String" mandatory="true" position="24">
+      <dataModel>_O9hMo9nUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=FAM?</dataModel>
+      <usage>_P92oQtnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9hzsdnUEe-ZLcaEU23iqA" size="58" type="String" mandatory="true" position="33">
+      <dataModel>_O9hMptnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_GEN?</dataModel>
+      <usage>_P92oQ9nUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9hzstnUEe-ZLcaEU23iqA" size="57" type="String" mandatory="true" position="30">
+      <dataModel>_O9hMpdnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=PRX_VEN?</dataModel>
+      <usage>_P92oQdnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9hzs9nUEe-ZLcaEU23iqA" size="77" type="String" mandatory="true" position="9">
+      <dataModel>_O9glktnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_MRQ?</dataModel>
+      <usage>_P92oRNnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9jB0NnUEe-ZLcaEU23iqA" size="60" type="String" mandatory="true" position="12">
+      <dataModel>_O9glk9nUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=COD_ART?</dataModel>
+      <usage>_P93PUdnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9jB0dnUEe-ZLcaEU23iqA" size="61" type="String" mandatory="true" position="21">
+      <dataModel>_O9hMotnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_TAI?</dataModel>
+      <usage>_P90MANnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9jB0tnUEe-ZLcaEU23iqA" size="73" type="String" mandatory="true" position="18">
+      <dataModel>_O9hModnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_COL?</dataModel>
+      <usage>_P93PU9nUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9jB09nUEe-ZLcaEU23iqA" mandatory="true" position="3">
+      <dataModel>_O9glkNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=Article?</dataModel>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9jo4NnUEe-ZLcaEU23iqA" size="100" type="String" mandatory="true" position="15">
+      <dataModel>_O9hMoNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_PRD?</dataModel>
+      <usage>_P93PUtnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9jo4dnUEe-ZLcaEU23iqA" size="63" type="String" mandatory="true" position="36">
+      <dataModel>_O9hMp9nUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=CIB_TRN_AGE?</dataModel>
+      <usage>_P93PVdnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9jo4tnUEe-ZLcaEU23iqA" size="82" type="String" mandatory="true" position="27">
+      <dataModel>_O9hMpNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=SS_FAM?</dataModel>
+      <usage>_P92oQNnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9jo49nUEe-ZLcaEU23iqA" size="55" type="String" mandatory="true" position="39">
+      <dataModel>_O9hMqNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=COD_CAT?</dataModel>
+      <usage>_P92oRdnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9jo5NnUEe-ZLcaEU23iqA" size="68" type="String" mandatory="true" position="42">
+      <dataModel>_O9hMqdnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=LIB_CAT?</dataModel>
+      <usage>_P93PVNnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_O9kP8NnUEe-ZLcaEU23iqA" size="55" type="String" mandatory="true" position="6">
+      <dataModel>_O9glkdnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=COD_MRQ?</dataModel>
+      <usage>_P93PUNnUEe-ZLcaEU23iqA</usage>
+    </fieldRef>
+  </containerRef>
+  <targetSetRef id="_QG7EsNnUEe-ZLcaEU23iqA" sourceSet="_QG6doNnUEe-ZLcaEU23iqA">
+    <container>_N1_j4NnUEe-ZLcaEU23iqA</container>
+  </targetSetRef>
+  <sourceSetRef id="_QG6doNnUEe-ZLcaEU23iqA" targetSet="_QG7EsNnUEe-ZLcaEU23iqA">
+    <dataSet xsi:type="map:DataSet">#_O9msMNnUEe-ZLcaEU23iqA</dataSet>
+  </sourceSetRef>
+  <templateRef id="_P-jL0NnUEe-ZLcaEU23iqA" nodeCode="com.stambia.flow.step" templateCriteria="type=I-TP;trgProduct=ORACLE;trgPath=server:Data/schema:CSG1_ORA4/datastore:SAS_ARTICLE;trgTech=RDBMS;trgWorkspaceCapability=true;trgMapCapability=true;trgFilterCapability=true;trgJoinCapability=true;trgProductExtensionsList=UUID_TECH_RDBMS_XDM;trgIsXdmDatabase=false;">
+    <dataModel>_P-dFMNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=I_SAS_ARTICLE?</dataModel>
+    <targetRef>_N0-3QNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</targetRef>
+  </templateRef>
+  <templateRef id="_QD1UcdnUEe-ZLcaEU23iqA" description="Load : Article" nodeCode="com.stambia.flow.step" templateCriteria="type=L-TP;trgProduct=ORACLE;trgPath=server:Data/schema:CSG1_ORA4/datastore:SAS_ARTICLE;trgTech=RDBMS;trgWorkspaceCapability=true;trgMapCapability=true;trgFilterCapability=true;trgJoinCapability=true;trgProductExtensionsList=UUID_TECH_RDBMS_XDM;trgIsXdmDatabase=false;srcProduct=FILE;srcPath=server:null/directory:source/file:Article;srcTech=FILE;srcWorkspaceCapability=false;srcMapCapability=true;srcFilterCapability=true;srcJoinCapability=false;srcProductExtensionsList=;srcAmazonS3Link=false">
+    <dataModel>_QD1UcNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map$name=L1_SAS_ARTICLE?</dataModel>
+    <load>_O9pIc9nUEe-ZLcaEU23iqA</load>
+    <targetRef>_N0-3QNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</targetRef>
+  </templateRef>
+  <loadSet id="_N27YAdnUEe-ZLcaEU23iqA">
+    <container>_N0-3QNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</container>
+  </loadSet>
+  <loadSet id="_O9pIc9nUEe-ZLcaEU23iqA">
+    <container>_O9ewYNnUEe-ZLcaEU23iqA?fileId=_MGiYcNnUEe-ZLcaEU23iqA$type=map?</container>
+  </loadSet>
+</ref:mapRef>
