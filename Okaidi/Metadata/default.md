@@ -11,6 +11,7 @@
       <attribute defType="com.stambia.file.file.lastLineToSkip" id="_U4zUwNnTEe-ZLcaEU23iqA" value="0"/>
       <attribute defType="com.stambia.file.file.header" id="_U41xANnTEe-ZLcaEU23iqA" value="1"/>
       <attribute defType="com.stambia.file.file.physicalName" id="_X5O_4NnTEe-ZLcaEU23iqA" value="Article_202408.csv"/>
+      <attribute defType="com.stambia.file.file.stringDelimiter" id="_FPhTsNqMEe-2vscanfRwMw" value="22"/>
       <node defType="com.stambia.file.field" id="__Rgm3NnTEe-ZLcaEU23iqA" name="LIB_CAT" position="13">
         <attribute defType="com.stambia.file.field.size" id="__Rgm3dnTEe-ZLcaEU23iqA" value="68"/>
         <attribute defType="com.stambia.file.field.type" id="__Rgm3tnTEe-ZLcaEU23iqA" value="String"/>
