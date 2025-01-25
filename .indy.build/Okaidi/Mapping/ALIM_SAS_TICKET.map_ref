@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ref:mapRef xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:map="http://www.indy.com/v2/map" xmlns:ref="http://www.indy.com/v2/ref" id="_QWntcNtcEe-WqZzf9NOHeA">
+  <dataModel>_QKANwNtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=ALIM_SAS_TICKET?</dataModel>
+  <containerRef xsi:type="ref:RDatastore" id="_UPYuwNtcEe-WqZzf9NOHeA" countShownFields="34" hierarchical="true">
+    <dataModel>_UPYHsNtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+    <fieldRef xsi:type="ref:RField" id="_UPbyENtcEe-WqZzf9NOHeA" size="60" type="String" mandatory="true" position="96">
+      <dataModel>_UPbLCNtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=DAT_OUV?</dataModel>
+      <usage>_CQ7Is9tdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPcZINtcEe-WqZzf9NOHeA" size="50" type="String" mandatory="true" position="99">
+      <dataModel>_UPbLCdtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=DAT_FRM?</dataModel>
+      <usage>_CQ7IudtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPcZIdtcEe-WqZzf9NOHeA" precision="5" size="12" type="Numeric" mandatory="true" position="36">
+      <dataModel>_UPZ86ttcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=MNT_BRU?</dataModel>
+      <usage>_CQ7IsttdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPdAMNtcEe-WqZzf9NOHeA" size="12" type="Numeric" mandatory="true" position="75">
+      <dataModel>_UPbLAdtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_POS?</dataModel>
+      <usage>_CQ7IsdtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPdAMdtcEe-WqZzf9NOHeA" size="53" type="String" mandatory="true" position="6">
+      <dataModel>_UPZ84NtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_ENS?</dataModel>
+      <usage>_CQ7IpdtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPdAMttcEe-WqZzf9NOHeA" size="77" type="String" mandatory="true" position="69">
+      <dataModel>_UPaj8ttcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=ADR3?</dataModel>
+      <usage>_CQ7ItdtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPdAM9tcEe-WqZzf9NOHeA" mandatory="true" position="3">
+      <dataModel>_UPZV0NtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=Ticket_test?</dataModel>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPdANNtcEe-WqZzf9NOHeA" size="68" type="String" mandatory="true" position="81">
+      <dataModel>_UPbLA9tcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=REG_MAG?</dataModel>
+      <usage>_CQ7ItttdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPdnQNtcEe-WqZzf9NOHeA" precision="5" size="12" type="Numeric" mandatory="true" position="39">
+      <dataModel>_UPZ869tcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=MNT_TTC?</dataModel>
+      <usage>_CQ7IqdtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPdnQdtcEe-WqZzf9NOHeA" size="12" type="Numeric" mandatory="true" position="45">
+      <dataModel>_UPZ87dtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=TX_TVA?</dataModel>
+      <usage>_CQ7Ip9tdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPdnQttcEe-WqZzf9NOHeA" precision="5" size="12" type="Numeric" mandatory="true" position="51">
+      <dataModel>_UPZ879tcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=REM_TIC?</dataModel>
+      <usage>_CQ7vsttdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPdnQ9tcEe-WqZzf9NOHeA" size="64" type="String" mandatory="true" position="87">
+      <dataModel>_UPbLBdtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=EMAIL?</dataModel>
+      <usage>_CQ7Io9tdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPeOUNtcEe-WqZzf9NOHeA" size="12" type="Numeric" mandatory="true" position="15">
+      <dataModel>_UPZ849tcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_ART?</dataModel>
+      <usage>_CQ7IrdtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPeOUdtcEe-WqZzf9NOHeA" size="60" type="String" mandatory="true" position="72">
+      <dataModel>_UPbLANtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=VIL_MAG?</dataModel>
+      <usage>_CQ7IqttdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPeOUttcEe-WqZzf9NOHeA" size="77" type="String" mandatory="true" position="63">
+      <dataModel>_UPaj8NtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=ADR1?</dataModel>
+      <usage>_CQ7IpNtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPeOU9tcEe-WqZzf9NOHeA" precision="5" size="12" type="Numeric" mandatory="true" position="54">
+      <dataModel>_UPZ88NtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=TX_DEV?</dataModel>
+      <usage>_CQ7IrttdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPe1YNtcEe-WqZzf9NOHeA" size="70" type="String" mandatory="true" position="12">
+      <dataModel>_UPZ84ttcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LIB_MAG?</dataModel>
+      <usage>_CQ7IuttdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPe1YdtcEe-WqZzf9NOHeA" size="67" type="String" mandatory="true" position="78">
+      <dataModel>_UPbLAttcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=DEP_MAG?</dataModel>
+      <usage>_CQ7IodtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPe1YttcEe-WqZzf9NOHeA" precision="6" size="12" type="Numeric" mandatory="true" position="93">
+      <dataModel>_UPbLB9tcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LAT?</dataModel>
+      <usage>_CQ6hkdtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPe1Y9tcEe-WqZzf9NOHeA" size="56" type="String" mandatory="true" position="9">
+      <dataModel>_UPZ84dtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LIB_ENS?</dataModel>
+      <usage>_CQ7IsNtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPe1ZNtcEe-WqZzf9NOHeA" precision="6" size="12" type="Numeric" mandatory="true" position="90">
+      <dataModel>_UPbLBttcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LNG?</dataModel>
+      <usage>_CQ7It9tdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPe1ZdtcEe-WqZzf9NOHeA" size="53" type="String" mandatory="true" position="42">
+      <dataModel>_UPZ87NtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_DEV?</dataModel>
+      <usage>_CQ7IrNtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPe1ZttcEe-WqZzf9NOHeA" size="12" type="Numeric" mandatory="true" position="24">
+      <dataModel>_UPZ85ttcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=NUM_TIC_LIG?</dataModel>
+      <usage>_CQ7vsNtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPfccNtcEe-WqZzf9NOHeA" size="12" type="Numeric" mandatory="true" position="33">
+      <dataModel>_UPZ86dtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=QTE?</dataModel>
+      <usage>_CQ7Ir9tdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPfccdtcEe-WqZzf9NOHeA" precision="5" size="12" type="Numeric" mandatory="true" position="48">
+      <dataModel>_UPZ87ttcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=REM_LIN?</dataModel>
+      <usage>_CQ7IottdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPfccttcEe-WqZzf9NOHeA" size="69" type="String" mandatory="true" position="18">
+      <dataModel>_UPZ85NtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=DAT_HEU_TIC?</dataModel>
+      <usage>_CQ7Iq9tdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPfcc9tcEe-WqZzf9NOHeA" size="55" type="String" mandatory="true" position="30">
+      <dataModel>_UPZ86NtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_VEN?</dataModel>
+      <usage>_CQ7Iu9tdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPgDgNtcEe-WqZzf9NOHeA" size="52" type="String" mandatory="true" position="57">
+      <dataModel>_UPZ88dtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_PAY?</dataModel>
+      <usage>_CQ7vsdtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPgDgdtcEe-WqZzf9NOHeA" size="67" type="String" mandatory="true" position="84">
+      <dataModel>_UPbLBNtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=TEL?</dataModel>
+      <usage>_CQ7ItNtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPgDgttcEe-WqZzf9NOHeA" size="56" type="String" mandatory="true" position="60">
+      <dataModel>_UPZ88ttcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LIB_PAY?</dataModel>
+      <usage>_CQ6hkNtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPgDg9tcEe-WqZzf9NOHeA" size="188" type="String" mandatory="true" position="102">
+      <dataModel>_UPbLCttcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=SCHEDULE?</dataModel>
+      <usage>_CQ7IoNtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPgDhNtcEe-WqZzf9NOHeA" size="12" type="Numeric" mandatory="true" position="21">
+      <dataModel>_UPZ85dtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=NUM_TIC?</dataModel>
+      <usage>_CQ7IpttdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPgDhdtcEe-WqZzf9NOHeA" size="12" type="Numeric" mandatory="true" position="27">
+      <dataModel>_UPZ859tcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_CAI?</dataModel>
+      <usage>_CQ7IqNtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_UPgDhttcEe-WqZzf9NOHeA" size="67" type="String" mandatory="true" position="66">
+      <dataModel>_UPaj8dtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=ADR2?</dataModel>
+      <usage>_CQ7IuNtdEe-WqZzf9NOHeA</usage>
+    </fieldRef>
+  </containerRef>
+  <containerRef xsi:type="ref:RDatastore" id="_BosD8NtdEe-WqZzf9NOHeA" countShownFields="33" hierarchical="false">
+    <dataModel>_BoX64NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+    <fieldRef xsi:type="ref:RField" id="_BpCpQNtdEe-WqZzf9NOHeA" size="255" type="VARCHAR2" position="57">
+      <dataModel>_Bo6GYNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LIB_PAY?</dataModel>
+      <expressionRef id="_CQ6hkNtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.LIB_PAY}$">
+        <dataModel>_CQwwkNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPgDgttcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpDQUNtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="90">
+      <dataModel>_BpA0ENtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LAT?</dataModel>
+      <expressionRef id="_CQ6hkdtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.LAT}$">
+        <dataModel>_CQwwkdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPe1YttcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpDQUdtdEe-WqZzf9NOHeA" size="250" type="VARCHAR2" position="99">
+      <dataModel>_BpCCMdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=SCHEDULE?</dataModel>
+      <expressionRef id="_CQ7IoNtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.SCHEDULE}$">
+        <dataModel>_CQwwkttdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPgDg9tcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpDQUttdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="75">
+      <dataModel>_Bo9JsNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=DEP_MAG?</dataModel>
+      <expressionRef id="_CQ7IodtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.DEP_MAG}$">
+        <dataModel>_CQxXoNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPe1YdtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpD3YNtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="45">
+      <dataModel>_Bo3DENtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=REM_LIN?</dataModel>
+      <expressionRef id="_CQ7IottdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.REM_LIN}$">
+        <dataModel>_CQxXodtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPfccdtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpD3YdtdEe-WqZzf9NOHeA" size="255" type="VARCHAR2" position="84">
+      <dataModel>_Bo--4NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=EMAIL?</dataModel>
+      <expressionRef id="_CQ7Io9tdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.EMAIL}$">
+        <dataModel>_CQxXottdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPdnQ9tcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpD3YttdEe-WqZzf9NOHeA" size="255" type="VARCHAR2" position="60">
+      <dataModel>_Bo6tcNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=ADR1?</dataModel>
+      <expressionRef id="_CQ7IpNtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.ADR1}$">
+        <dataModel>_CQx-sNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPeOUttcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpD3Y9tdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="3">
+      <dataModel>_BosrANtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_ENS?</dataModel>
+      <expressionRef id="_CQ7IpdtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.COD_ENS}$">
+        <dataModel>_CQx-sdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPdAMdtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpD3ZNtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="18">
+      <dataModel>_BovuUNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=NUM_TIC?</dataModel>
+      <expressionRef id="_CQ7IpttdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.NUM_TIC}$">
+        <dataModel>_CQx-sttdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPgDhNtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpD3ZdtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="42">
+      <dataModel>_Bo2cANtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=TX_TVA?</dataModel>
+      <expressionRef id="_CQ7Ip9tdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.TX_TVA}$">
+        <dataModel>_CQylwNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPdnQdtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpEecNtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="24">
+      <dataModel>_BoxjgNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_CAI?</dataModel>
+      <expressionRef id="_CQ7IqNtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.COD_CAI}$">
+        <dataModel>_CQzM0NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPgDhdtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpEecdtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="36">
+      <dataModel>_Bo0m0NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=MNT_TTC?</dataModel>
+      <expressionRef id="_CQ7IqdtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.MNT_TTC}$">
+        <dataModel>_CQzM0dtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPdnQNtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpEecttdEe-WqZzf9NOHeA" size="255" type="VARCHAR2" position="69">
+      <dataModel>_Bo77kNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=VIL_MAG?</dataModel>
+      <expressionRef id="_CQ7IqttdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.VIL_MAG}$">
+        <dataModel>_CQzz4NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPeOUdtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpEec9tdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="15">
+      <dataModel>_BovHQNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=DAT_HEU_TIC?</dataModel>
+      <expressionRef id="_CQ7Iq9tdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.DAT_HEU_TIC}$">
+        <dataModel>_CQzz4dtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPfccttcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpEedNtdEe-WqZzf9NOHeA" size="10" type="VARCHAR2" position="39">
+      <dataModel>_Bo108NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_DEV?</dataModel>
+      <expressionRef id="_CQ7IrNtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.COD_DEV}$">
+        <dataModel>_CQzz4ttdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPe1ZdtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpEeddtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="12">
+      <dataModel>_BougMdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_ART?</dataModel>
+      <expressionRef id="_CQ7IrdtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.COD_ART}$">
+        <dataModel>_CQ0a8NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPeOUNtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpFFgNtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="51">
+      <dataModel>_Bo44QNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=TX_DEV?</dataModel>
+      <expressionRef id="_CQ7IrttdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.TX_DEV}$">
+        <dataModel>_CQ0a8dtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPeOU9tcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpFFgdtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="30">
+      <dataModel>_BoyxoNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=QTE?</dataModel>
+      <expressionRef id="_CQ7Ir9tdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.QTE}$">
+        <dataModel>_CQ1pENtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPfccNtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpFFgttdEe-WqZzf9NOHeA" size="255" type="VARCHAR2" position="6">
+      <dataModel>_Bot5INtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LIB_ENS?</dataModel>
+      <expressionRef id="_CQ7IsNtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.LIB_ENS}$">
+        <dataModel>_CQ2QINtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPe1Y9tcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpFFg9tdEe-WqZzf9NOHeA" size="10" type="VARCHAR2" position="72">
+      <dataModel>_Bo8ioNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_POS?</dataModel>
+      <expressionRef id="_CQ7IsdtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.COD_POS}$">
+        <dataModel>_CQ2QIdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPdAMNtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpFskNtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="33">
+      <dataModel>_Boz_wNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=MNT_BRU?</dataModel>
+      <expressionRef id="_CQ7IsttdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.MNT_BRU}$">
+        <dataModel>_CQ23MNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPcZIdtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpFskdtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="93">
+      <dataModel>_BpBbINtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=DAT_OUV?</dataModel>
+      <expressionRef id="_CQ7Is9tdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.DAT_OUV}$">
+        <dataModel>_CQ23MdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPbyENtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpFskttdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="81">
+      <dataModel>_Bo-X0NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=TEL?</dataModel>
+      <expressionRef id="_CQ7ItNtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.TEL}$">
+        <dataModel>_CQ3eQNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPgDgdtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpFsk9tdEe-WqZzf9NOHeA" size="255" type="VARCHAR2" position="66">
+      <dataModel>_Bo7UgNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=ADR3?</dataModel>
+      <expressionRef id="_CQ7ItdtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.ADR3}$">
+        <dataModel>_CQ3eQdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPdAMttcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpGToNtdEe-WqZzf9NOHeA" size="255" type="VARCHAR2" position="78">
+      <dataModel>_Bo9wwNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=REG_MAG?</dataModel>
+      <expressionRef id="_CQ7ItttdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.REG_MAG}$">
+        <dataModel>_CQ4FUNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPdANNtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpGTodtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="87">
+      <dataModel>_BpANANtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LNG?</dataModel>
+      <expressionRef id="_CQ7It9tdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.LNG}$">
+        <dataModel>_CQ4sYNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPe1ZNtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpGTottdEe-WqZzf9NOHeA" size="255" type="VARCHAR2" position="63">
+      <dataModel>_Bo6tcdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=ADR2?</dataModel>
+      <expressionRef id="_CQ7IuNtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.ADR2}$">
+        <dataModel>_CQ4sYdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPgDhttcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpGTo9tdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="96">
+      <dataModel>_BpCCMNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=DAT_FRM?</dataModel>
+      <expressionRef id="_CQ7IudtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.DAT_FRM}$">
+        <dataModel>_CQ4sYttdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPcZINtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpGTpNtdEe-WqZzf9NOHeA" size="255" type="VARCHAR2" position="9">
+      <dataModel>_BougMNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=LIB_MAG?</dataModel>
+      <expressionRef id="_CQ7IuttdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.LIB_MAG}$">
+        <dataModel>_CQ5TcNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPe1YNtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpGTpdtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="27">
+      <dataModel>_BoyKkNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_VEN?</dataModel>
+      <expressionRef id="_CQ7Iu9tdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.COD_VEN}$">
+        <dataModel>_CQ5TcdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPfcc9tcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpGTpttdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="21">
+      <dataModel>_Bow8cNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=NUM_TIC_LIG?</dataModel>
+      <expressionRef id="_CQ7vsNtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.NUM_TIC_LIG}$">
+        <dataModel>_CQ56gNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPe1ZttcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpG6sNtdEe-WqZzf9NOHeA" size="10" type="VARCHAR2" position="54">
+      <dataModel>_Bo5fUNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=COD_PAY?</dataModel>
+      <expressionRef id="_CQ7vsdtdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.COD_PAY}$">
+        <dataModel>_CQ56gdtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPgDgNtcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+    <fieldRef xsi:type="ref:RField" id="_BpG6sdtdEe-WqZzf9NOHeA" size="50" type="VARCHAR2" position="48">
+      <dataModel>_Bo4RMNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=REM_TIC?</dataModel>
+      <expressionRef id="_CQ7vsttdEe-WqZzf9NOHeA" internalExpression="${Ticket_test.REM_TIC}$">
+        <dataModel>_CQ56gttdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</dataModel>
+        <sourceRef>_UPdnQttcEe-WqZzf9NOHeA</sourceRef>
+      </expressionRef>
+    </fieldRef>
+  </containerRef>
+  <targetSetRef id="_CVii4dtdEe-WqZzf9NOHeA" sourceSet="_CVii4NtdEe-WqZzf9NOHeA">
+    <container>_BosD8NtdEe-WqZzf9NOHeA</container>
+  </targetSetRef>
+  <sourceSetRef id="_CVii4NtdEe-WqZzf9NOHeA" targetSet="_CVii4dtdEe-WqZzf9NOHeA">
+    <dataSet xsi:type="map:DataSet">#_UPjt4NtcEe-WqZzf9NOHeA</dataSet>
+  </sourceSetRef>
+  <templateRef id="_VcvSsNtcEe-WqZzf9NOHeA" nodeCode="com.stambia.flow.step" templateCriteria="type=I-TP;trgProduct=ORACLE;trgPath=server:Data/schema:CSG1_ORA4/datastore:SAS_TICKET;trgTech=RDBMS;trgWorkspaceCapability=true;trgMapCapability=true;trgFilterCapability=true;trgJoinCapability=true;trgProductExtensionsList=UUID_TECH_RDBMS_XDM;trgIsXdmDatabase=false;">
+    <dataModel>_Vcs2cNtcEe-WqZzf9NOHeA</dataModel>
+  </templateRef>
+  <templateRef id="_VgjbsdtcEe-WqZzf9NOHeA" description="Load : Ticket_test" nodeCode="com.stambia.flow.step" templateCriteria="type=L-TP;trgProduct=ORACLE;trgPath=server:Data/schema:CSG1_ORA4/datastore:SAS_TICKET;trgTech=RDBMS;trgWorkspaceCapability=true;trgMapCapability=true;trgFilterCapability=true;trgJoinCapability=true;trgProductExtensionsList=UUID_TECH_RDBMS_XDM;trgIsXdmDatabase=false;srcProduct=FILE;srcPath=server:null/directory:source/file:Ticket_test;srcTech=FILE;srcWorkspaceCapability=false;srcMapCapability=true;srcFilterCapability=true;srcJoinCapability=false;srcProductExtensionsList=;srcAmazonS3Link=false">
+    <dataModel>_VgjbsNtcEe-WqZzf9NOHeA</dataModel>
+    <load>_UPk8A9tcEe-WqZzf9NOHeA</load>
+  </templateRef>
+  <templateRef id="_CRAoMdtdEe-WqZzf9NOHeA" nodeCode="com.stambia.flow.step" templateCriteria="type=I-TP;trgProduct=ORACLE;trgPath=server:Data/schema:CSG1_ORA4/datastore:SAS_TICKET;trgTech=RDBMS;trgWorkspaceCapability=true;trgMapCapability=true;trgFilterCapability=true;trgJoinCapability=true;trgProductExtensionsList=UUID_TECH_RDBMS_XDM;trgIsXdmDatabase=false;">
+    <dataModel>_CRAoMNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=I_SAS_TICKET?</dataModel>
+    <targetRef>_BoX64NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</targetRef>
+  </templateRef>
+  <templateRef id="_CSbkgdtdEe-WqZzf9NOHeA" description="Load : Ticket_test" nodeCode="com.stambia.flow.step" templateCriteria="type=L-TP;trgProduct=ORACLE;trgPath=server:Data/schema:CSG1_ORA4/datastore:SAS_TICKET;trgTech=RDBMS;trgWorkspaceCapability=true;trgMapCapability=true;trgFilterCapability=true;trgJoinCapability=true;trgProductExtensionsList=UUID_TECH_RDBMS_XDM;trgIsXdmDatabase=false;srcProduct=FILE;srcPath=server:null/directory:source/file:Ticket_test;srcTech=FILE;srcWorkspaceCapability=false;srcMapCapability=true;srcFilterCapability=true;srcJoinCapability=false;srcProductExtensionsList=;srcAmazonS3Link=false">
+    <dataModel>_CSbkgNtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map$name=L1_SAS_TICKET?</dataModel>
+    <load>_UPk8A9tcEe-WqZzf9NOHeA</load>
+    <targetRef>_BoX64NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</targetRef>
+  </templateRef>
+  <loadSet id="_UPk8A9tcEe-WqZzf9NOHeA">
+    <container>_UPYHsNtcEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</container>
+  </loadSet>
+  <loadSet id="_BpLzMdtdEe-WqZzf9NOHeA">
+    <container>_BoX64NtdEe-WqZzf9NOHeA?fileId=_QKANwNtcEe-WqZzf9NOHeA$type=map?</container>
+  </loadSet>
+</ref:mapRef>

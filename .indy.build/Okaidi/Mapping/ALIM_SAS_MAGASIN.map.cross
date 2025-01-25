@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cross:root xmlns:cross="http://www.stambia.com/cross" id="_Mtl70NtdEe-WqZzf9NOHeA?fileId=_Mtl70NtdEe-WqZzf9NOHeA?" type="MAPPING" modelVersion="1.0">
+  <property key="name" value="ALIM_SAS_MAGASIN"/>
+  <ref id="_3raHINnKEe-OZtJVOz9TVA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?" type="METADATA">
+    <property key="containerLevel" value="SCHEMA"/>
+    <property key="name" value="CSG1_ORA4"/>
+    <property key="level" value="com.stambia.rdbms.schema"/>
+    <property key="fullPath" value="Data/CSG1_ORA4"/>
+    <property key="productCode" value="ORACLE"/>
+    <container>_3fJz0NnKEe-OZtJVOz9TVA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</container>
+  </ref>
+  <ref id="_Qkhn9tqNEe-2vscanfRwMw?fileId=_3fJz0NnKEe-OZtJVOz9TVA?" type="METADATA">
+    <property key="containerLevel" value="DATASTORE"/>
+    <property key="name" value="SAS_TICKET"/>
+    <property key="level" value="com.stambia.rdbms.datastore"/>
+    <property key="fullPath" value="Data/CSG1_ORA4/SAS_TICKET"/>
+    <property key="productCode" value="ORACLE"/>
+    <target>_O6oCPNtiEe-WqZzf9NOHeA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</target>
+    <container>_3raHINnKEe-OZtJVOz9TVA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</container>
+  </ref>
+  <ref id="_QkiO9tqNEe-2vscanfRwMw?fileId=_3fJz0NnKEe-OZtJVOz9TVA?" type="METADATA">
+    <property key="containerLevel" value="FIELD"/>
+    <property key="name" value="COD_PAY"/>
+    <property key="level" value="com.stambia.rdbms.column"/>
+    <property key="fullPath" value="Data/CSG1_ORA4/SAS_TICKET/COD_PAY"/>
+    <property key="productCode" value="ORACLE"/>
+    <target>_O6oo4NtiEe-WqZzf9NOHeA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</target>
+    <container>_Qkhn9tqNEe-2vscanfRwMw?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</container>
+  </ref>
+  <ref id="_O6oCPNtiEe-WqZzf9NOHeA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?" type="METADATA">
+    <property key="containerLevel" value="DATASTORE"/>
+    <property key="name" value="SAS_PAYS"/>
+    <property key="level" value="com.stambia.rdbms.datastore"/>
+    <property key="fullPath" value="Data/CSG1_ORA4/SAS_PAYS"/>
+    <property key="productCode" value="ORACLE"/>
+    <container>_3raHINnKEe-OZtJVOz9TVA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</container>
+  </ref>
+  <ref id="_3fJz0NnKEe-OZtJVOz9TVA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?" type="METADATA">
+    <property key="containerLevel" value="SERVER"/>
+    <property key="name" value="Data"/>
+    <property key="level" value="com.stambia.rdbms.server"/>
+    <property key="fullPath" value="Data"/>
+    <property key="productCode" value="ORACLE"/>
+  </ref>
+  <ref id="_O6oo5ttiEe-WqZzf9NOHeA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?" type="METADATA">
+    <property key="containerLevel" value="FIELD"/>
+    <property key="name" value="LIB_PAY"/>
+    <property key="level" value="com.stambia.rdbms.column"/>
+    <property key="fullPath" value="Data/CSG1_ORA4/SAS_PAYS/LIB_PAY"/>
+    <property key="productCode" value="ORACLE"/>
+    <container>_O6oCPNtiEe-WqZzf9NOHeA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</container>
+  </ref>
+  <ref id="_QkiO_NqNEe-2vscanfRwMw?fileId=_3fJz0NnKEe-OZtJVOz9TVA?" type="METADATA">
+    <property key="containerLevel" value="FIELD"/>
+    <property key="name" value="LIB_PAY"/>
+    <property key="level" value="com.stambia.rdbms.column"/>
+    <property key="fullPath" value="Data/CSG1_ORA4/SAS_TICKET/LIB_PAY"/>
+    <property key="productCode" value="ORACLE"/>
+    <target>_O6oo5ttiEe-WqZzf9NOHeA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</target>
+    <container>_Qkhn9tqNEe-2vscanfRwMw?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</container>
+  </ref>
+  <ref id="_O6oo4NtiEe-WqZzf9NOHeA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?" type="METADATA">
+    <property key="containerLevel" value="FIELD"/>
+    <property key="name" value="COD_PAY"/>
+    <property key="level" value="com.stambia.rdbms.column"/>
+    <property key="fullPath" value="Data/CSG1_ORA4/SAS_PAYS/COD_PAY"/>
+    <property key="productCode" value="ORACLE"/>
+    <container>_O6oCPNtiEe-WqZzf9NOHeA?fileId=_3fJz0NnKEe-OZtJVOz9TVA?</container>
+  </ref>
+</cross:root>
