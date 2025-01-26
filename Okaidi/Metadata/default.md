@@ -88,12 +88,12 @@
       <attribute defType="com.stambia.file.file.header" id="_CZj8sNtcEe-WqZzf9NOHeA" value="1"/>
       <attribute defType="com.stambia.file.file.physicalName" id="_DA5CcNtcEe-WqZzf9NOHeA" value="Ticket_test.csv"/>
       <node defType="com.stambia.file.field" id="_ImA3_dtcEe-WqZzf9NOHeA" name="COD_VEN" position="9">
-        <attribute defType="com.stambia.file.field.size" id="_ImA3_ttcEe-WqZzf9NOHeA" value="55"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImA3_ttcEe-WqZzf9NOHeA" value="56"/>
         <attribute defType="com.stambia.file.field.type" id="_ImA3_9tcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImA4ANtcEe-WqZzf9NOHeA" value="COD_VEN"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImCGKttcEe-WqZzf9NOHeA" name="DAT_FRM" position="32">
-        <attribute defType="com.stambia.file.field.size" id="_ImCGK9tcEe-WqZzf9NOHeA" value="50"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImCGK9tcEe-WqZzf9NOHeA" value="60"/>
         <attribute defType="com.stambia.file.field.type" id="_ImCGLNtcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGLdtcEe-WqZzf9NOHeA" value="DAT_FRM"/>
       </node>
@@ -114,7 +114,7 @@
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGJdtcEe-WqZzf9NOHeA" value="LAT"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImA35dtcEe-WqZzf9NOHeA" name="LIB_MAG" position="3">
-        <attribute defType="com.stambia.file.field.size" id="_ImA35ttcEe-WqZzf9NOHeA" value="70"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImA35ttcEe-WqZzf9NOHeA" value="77"/>
         <attribute defType="com.stambia.file.field.type" id="_ImA359tcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImA36NtcEe-WqZzf9NOHeA" value="LIB_MAG"/>
       </node>
@@ -134,12 +134,12 @@
         <attribute defType="com.stambia.file.field.physicalName" id="_ImA35NtcEe-WqZzf9NOHeA" value="LIB_ENS"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImBfENtcEe-WqZzf9NOHeA" name="LIB_PAY" position="19">
-        <attribute defType="com.stambia.file.field.size" id="_ImBfEdtcEe-WqZzf9NOHeA" value="56"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImBfEdtcEe-WqZzf9NOHeA" value="57"/>
         <attribute defType="com.stambia.file.field.type" id="_ImBfEttcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImBfE9tcEe-WqZzf9NOHeA" value="LIB_PAY"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImBfGNtcEe-WqZzf9NOHeA" name="ADR2" position="21">
-        <attribute defType="com.stambia.file.field.size" id="_ImBfGdtcEe-WqZzf9NOHeA" value="67"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImBfGdtcEe-WqZzf9NOHeA" value="75"/>
         <attribute defType="com.stambia.file.field.type" id="_ImBfGttcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImBfG9tcEe-WqZzf9NOHeA" value="ADR2"/>
       </node>
@@ -149,17 +149,17 @@
         <attribute defType="com.stambia.file.field.physicalName" id="_ImA37NtcEe-WqZzf9NOHeA" value="COD_ART"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImCGENtcEe-WqZzf9NOHeA" name="REG_MAG" position="26">
-        <attribute defType="com.stambia.file.field.size" id="_ImCGEdtcEe-WqZzf9NOHeA" value="68"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImCGEdtcEe-WqZzf9NOHeA" value="76"/>
         <attribute defType="com.stambia.file.field.type" id="_ImCGEttcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGE9tcEe-WqZzf9NOHeA" value="REG_MAG"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImCGBNtcEe-WqZzf9NOHeA" name="VIL_MAG" position="23">
-        <attribute defType="com.stambia.file.field.size" id="_ImCGBdtcEe-WqZzf9NOHeA" value="60"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImCGBdtcEe-WqZzf9NOHeA" value="69"/>
         <attribute defType="com.stambia.file.field.type" id="_ImCGBttcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGB9tcEe-WqZzf9NOHeA" value="VIL_MAG"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImCGDNtcEe-WqZzf9NOHeA" name="DEP_MAG" position="25">
-        <attribute defType="com.stambia.file.field.size" id="_ImCGDdtcEe-WqZzf9NOHeA" value="67"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImCGDdtcEe-WqZzf9NOHeA" value="66"/>
         <attribute defType="com.stambia.file.field.type" id="_ImCGDttcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGD9tcEe-WqZzf9NOHeA" value="DEP_MAG"/>
       </node>
@@ -169,7 +169,7 @@
         <attribute defType="com.stambia.file.field.physicalName" id="_ImA38NtcEe-WqZzf9NOHeA" value="DAT_HEU_TIC"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImCGGNtcEe-WqZzf9NOHeA" name="EMAIL" position="28">
-        <attribute defType="com.stambia.file.field.size" id="_ImCGGdtcEe-WqZzf9NOHeA" value="64"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImCGGdtcEe-WqZzf9NOHeA" value="65"/>
         <attribute defType="com.stambia.file.field.type" id="_ImCGGttcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGG9tcEe-WqZzf9NOHeA" value="EMAIL"/>
       </node>
@@ -215,7 +215,7 @@
       <node defType="com.stambia.file.field" id="_ImCGHNtcEe-WqZzf9NOHeA" name="LNG" position="29">
         <attribute defType="com.stambia.file.field.size" id="_ImCGHdtcEe-WqZzf9NOHeA" value="12"/>
         <attribute defType="com.stambia.file.field.type" id="_ImCGHttcEe-WqZzf9NOHeA" value="Numeric"/>
-        <attribute defType="com.stambia.file.field.decimal" id="_ImCGH9tcEe-WqZzf9NOHeA" value="6"/>
+        <attribute defType="com.stambia.file.field.decimal" id="_ImCGH9tcEe-WqZzf9NOHeA" value="7"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGINtcEe-WqZzf9NOHeA" value="LNG"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImA39dtcEe-WqZzf9NOHeA" name="NUM_TIC_LIG" position="7">
@@ -234,7 +234,7 @@
         <attribute defType="com.stambia.file.field.physicalName" id="_ImA34NtcEe-WqZzf9NOHeA" value="COD_ENS"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImCGANtcEe-WqZzf9NOHeA" name="ADR3" position="22">
-        <attribute defType="com.stambia.file.field.size" id="_ImCGAdtcEe-WqZzf9NOHeA" value="77"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImCGAdtcEe-WqZzf9NOHeA" value="108"/>
         <attribute defType="com.stambia.file.field.type" id="_ImCGAttcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGA9tcEe-WqZzf9NOHeA" value="ADR3"/>
       </node>
@@ -245,7 +245,7 @@
         <attribute defType="com.stambia.file.field.physicalName" id="_ImBfC9tcEe-WqZzf9NOHeA" value="TX_DEV"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImBfFNtcEe-WqZzf9NOHeA" name="ADR1" position="20">
-        <attribute defType="com.stambia.file.field.size" id="_ImBfFdtcEe-WqZzf9NOHeA" value="77"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImBfFdtcEe-WqZzf9NOHeA" value="86"/>
         <attribute defType="com.stambia.file.field.type" id="_ImBfFttcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImBfF9tcEe-WqZzf9NOHeA" value="ADR1"/>
       </node>
@@ -255,7 +255,7 @@
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGKdtcEe-WqZzf9NOHeA" value="DAT_OUV"/>
       </node>
       <node defType="com.stambia.file.field" id="_ImCGLttcEe-WqZzf9NOHeA" name="SCHEDULE" position="33">
-        <attribute defType="com.stambia.file.field.size" id="_ImCGL9tcEe-WqZzf9NOHeA" value="188"/>
+        <attribute defType="com.stambia.file.field.size" id="_ImCGL9tcEe-WqZzf9NOHeA" value="210"/>
         <attribute defType="com.stambia.file.field.type" id="_ImCGMNtcEe-WqZzf9NOHeA" value="String"/>
         <attribute defType="com.stambia.file.field.physicalName" id="_ImCGMdtcEe-WqZzf9NOHeA" value="SCHEDULE"/>
       </node>
